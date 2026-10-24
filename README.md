@@ -94,13 +94,9 @@ Before using the model for manufacturing or engineering decisions, validate it a
 
 Fill in these details to make the README specific to your prototype:
 
-- **Prototype name:** [Add name]
-- **Purpose / problem addressed:** [Explain what it is designed to do]
-- **Main components:** [List key parts]
-- **Materials:** [Add proposed materials, if known]
-- **Dimensions:** [Add verified dimensions and units]
-- **Testing plan:** [Describe how the prototype will be evaluated]
-- **Author / team:** [Add names or team, if appropriate]
+- **Prototype name:** AI-Predicted Cooling Water Life Extension System
+- **Purpose / problem addressed:** A low-cost ESP32 device that uses an explainable ML model to predict a cooling-tower         water's remaining safe life (instead of a fixed dirty-threshold cutoff), so only truly unsafe water gets drained and the     rest is recovered or reused.
+- **Author / team:**  VK26-IITH-SC-0378
 
 ## 10. License and Attribution
 
@@ -108,4 +104,4 @@ Add the appropriate license and attribution for the original model before redist
 
 ## Disclaimer
 
-This model is provided as a design and geometry reference. Verify all dimensions and engineering properties independently before relying on it for manufacturing, safety-critical, or precision applications.
+This model is provided as a design and geometry reference. 
